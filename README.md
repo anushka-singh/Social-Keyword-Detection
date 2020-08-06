@@ -1,6 +1,6 @@
 # Social Keyword Detection Documentation
 
-### This drive repository contains the data and scripts which comprise the Social Keyword Detection models. Three approaches were implemented and tested and this repository contains the code and the actual dataset used to train and test the approaches. The dataset is composed of over 102 labeled real-world data files plus a novel scoring mechanism designed for real-time applications.
+### This repository contains the data and scripts which comprise the Social Keyword Detection models. Three approaches were implemented and tested and this repository contains the code and the actual dataset used to train and test the approaches. The dataset is composed of over 102 labeled real-world data files plus a novel scoring mechanism designed for real-time applications.
 
 ### Included are the tools which allow you to run the models. 
 
